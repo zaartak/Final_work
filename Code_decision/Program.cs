@@ -29,3 +29,15 @@ string[] FilterArray(string[] array)
 
 string[] newArray = new string[count];
 int index = 0;
+
+// Заполняем новый массив элементами, удовлетворяющими условию
+    foreach (string element in array)
+    {
+        if (element.Length <= 3)
+        {
+                newArray[index] = element;
+                index++;
+        }
+    }
+    return newArray;
+}
