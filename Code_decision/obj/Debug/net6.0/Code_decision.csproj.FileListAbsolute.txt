@@ -1,0 +1,15 @@
+C:\Users\ALEX\Desktop\Final_work\Task\Code_decision\bin\Debug\net6.0\Code_decision.exe
+C:\Users\ALEX\Desktop\Final_work\Task\Code_decision\bin\Debug\net6.0\Code_decision.deps.json
+C:\Users\ALEX\Desktop\Final_work\Task\Code_decision\bin\Debug\net6.0\Code_decision.runtimeconfig.json
+C:\Users\ALEX\Desktop\Final_work\Task\Code_decision\bin\Debug\net6.0\Code_decision.dll
+C:\Users\ALEX\Desktop\Final_work\Task\Code_decision\bin\Debug\net6.0\Code_decision.pdb
+C:\Users\ALEX\Desktop\Final_work\Task\Code_decision\obj\Debug\net6.0\Code_decision.csproj.AssemblyReference.cache
+C:\Users\ALEX\Desktop\Final_work\Task\Code_decision\obj\Debug\net6.0\Code_decision.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ALEX\Desktop\Final_work\Task\Code_decision\obj\Debug\net6.0\Code_decision.AssemblyInfoInputs.cache
+C:\Users\ALEX\Desktop\Final_work\Task\Code_decision\obj\Debug\net6.0\Code_decision.AssemblyInfo.cs
+C:\Users\ALEX\Desktop\Final_work\Task\Code_decision\obj\Debug\net6.0\Code_decision.csproj.CoreCompileInputs.cache
+C:\Users\ALEX\Desktop\Final_work\Task\Code_decision\obj\Debug\net6.0\Code_decision.dll
+C:\Users\ALEX\Desktop\Final_work\Task\Code_decision\obj\Debug\net6.0\refint\Code_decision.dll
+C:\Users\ALEX\Desktop\Final_work\Task\Code_decision\obj\Debug\net6.0\Code_decision.pdb
+C:\Users\ALEX\Desktop\Final_work\Task\Code_decision\obj\Debug\net6.0\Code_decision.genruntimeconfig.cache
+C:\Users\ALEX\Desktop\Final_work\Task\Code_decision\obj\Debug\net6.0\ref\Code_decision.dll
